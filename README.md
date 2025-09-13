@@ -2,7 +2,7 @@
 <img align="left" src="https://i.pinimg.com/736x/04/3a/3d/043a3d5517459e9421bd34bbdf3be0ab.jpg" width="147"/> 
 
 ```csharp
-github.com/bopry
+github.com/bopery
 dc   $  @bopery
 web  $  lol-fr.vercel.app
 ```
