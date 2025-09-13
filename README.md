@@ -3,8 +3,8 @@
 
 ```csharp
 github.com/bopery
-dc   $  @bopery
-web  $  lol-fr.vercel.app
+dc     @bopery
+web    lol-fr.vercel.app
 ```
 &zwnj; 
 &zwnj; 
